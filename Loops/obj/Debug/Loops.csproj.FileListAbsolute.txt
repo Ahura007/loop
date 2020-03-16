@@ -1,0 +1,12 @@
+C:\Users\Ahura\source\repos\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\Ahura\source\repos\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\Ahura\source\repos\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\Ahura\source\repos\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\Ahura\source\repos\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\Ahura\source\repos\Loops\Loops\obj\Debug\Loops.pdb
+D:\Programing\GitHub\Loops\Loops\bin\Debug\Loops.exe.config
+D:\Programing\GitHub\Loops\Loops\bin\Debug\Loops.exe
+D:\Programing\GitHub\Loops\Loops\bin\Debug\Loops.pdb
+D:\Programing\GitHub\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+D:\Programing\GitHub\Loops\Loops\obj\Debug\Loops.exe
+D:\Programing\GitHub\Loops\Loops\obj\Debug\Loops.pdb
